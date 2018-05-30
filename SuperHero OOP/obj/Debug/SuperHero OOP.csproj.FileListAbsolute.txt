@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\SuperHero OOP\SuperHero OOP\bin\Debug\SuperHero OOP.exe.config
+C:\Users\WeCanCodeIT\source\repos\SuperHero OOP\SuperHero OOP\bin\Debug\SuperHero OOP.exe
+C:\Users\WeCanCodeIT\source\repos\SuperHero OOP\SuperHero OOP\bin\Debug\SuperHero OOP.pdb
+C:\Users\WeCanCodeIT\source\repos\SuperHero OOP\SuperHero OOP\obj\Debug\SuperHero OOP.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\SuperHero OOP\SuperHero OOP\obj\Debug\SuperHero OOP.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\SuperHero OOP\SuperHero OOP\obj\Debug\SuperHero OOP.exe
+C:\Users\WeCanCodeIT\source\repos\SuperHero OOP\SuperHero OOP\obj\Debug\SuperHero OOP.pdb
